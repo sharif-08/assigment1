@@ -11,6 +11,9 @@
 	Multiplication:50
 Division:0.5
 if usser divide by zero it get zero division error:
+
+
+
 #task 2
 user give first name:john
 and second name:doe
